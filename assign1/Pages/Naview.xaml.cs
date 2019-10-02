@@ -42,7 +42,7 @@ namespace assign1.Pages
         {
 
             ("upload", typeof(Upload)),
-
+            ("list", typeof(List)),
         };
 
         private void NavView_Loaded(object sender, RoutedEventArgs e)
